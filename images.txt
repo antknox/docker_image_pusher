@@ -1,9 +1,9 @@
 #nginx
 #nginx:alpine
-#portainer/portainer-ce
+portainer/portainer-ce
 #sickcodes/docker-osx:sonoma
 #ghcr.io/immich-app/immich-server:latest
-jxxghp/nas-tools
+#jxxghp/nas-tools
 #ghcr.io/immich-app/immich-server
 #ghcr.io/immich-app/immich-machine-learning
 #neosmemo/memos:latest
