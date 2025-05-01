@@ -12,3 +12,4 @@ ghcr.io/immich-app/immich-server:latest
 ##jxxghp/nas-tools
 ghcr.io/immich-app/immich-server:${IMMICH_VERSION:-release}
 ghcr.io/immich-app/immich-machine-learning:${IMMICH_VERSION:-release}
+
