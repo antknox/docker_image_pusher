@@ -10,3 +10,5 @@ ghcr.io/immich-app/immich-server:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 jxxghp/nas-tools
+ghcr.io/immich-app/immich-server:${IMMICH_VERSION:-release}
+ghcr.io/immich-app/immich-machine-learning:${IMMICH_VERSION:-release}
