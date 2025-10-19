@@ -7,7 +7,8 @@
 #neosmemo/memos:latest
 #ghcr.io/freeok/sonovel:latest
 #docker.hanxi.cc/hanxi/xiaomusic:latest
-dissipator/music:latest
+##dissipator/music:latest
+pan93412/unblock-netease-music-enhanced
 #linkease/kspeeder:latest
 #ghostchu/peerbanhelper:latest
 #jc21/nginx-proxy-manager:latest
