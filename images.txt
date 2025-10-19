@@ -8,7 +8,7 @@
 ghcr.io/freeok/sonovel:latest
 docker.hanxi.cc/hanxi/xiaomusic:latest
 linkease/kspeeder:latest
-ghostchu/peerbanhelper
+ghostchu/peerbanhelper:latest
 jc21/nginx-proxy-manager:latest
 jc21/mariadb-aria:latest
 ghcr.io/estrellaxd/auto_bangumi:latest
