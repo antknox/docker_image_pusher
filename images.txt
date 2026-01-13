@@ -1,6 +1,7 @@
 #nginx
 #nginx:alpine
-#portainer/portainer-ce
+portainer/portainer-ce
+portainer/portainer-ce:2.20.2
 #sickcodes/docker-osx:sonoma
 #jxxghp/nas-tools
 #ghcr.io/estrellaxd/auto_bangumi:latest
@@ -14,7 +15,7 @@
 jc21/nginx-proxy-manager:latest
 jc21/mariadb-aria:latest
 #irinesistiana/mosdns:v4.5.3
-#adguard/adguardhome:latest
+adguard/adguardhome:latest
 #ghcr.io/estrellaxd/auto_bangumi:latest
 #0nlylty/dockercopilot:latest
 #ghcr.io/home-assistant/home-assistant:stable
